@@ -1,0 +1,77 @@
+﻿PURPOSE: SEO optimization takes time. Goal: how can we do it within less time.
+
+
+Contents
+THE LATEST AND GREATEST SEO Tips        1
+Internal (code)        1
+Beginner        1
+Advanced        2
+External (Interaction and Platforms)        2
+Non-Google products / Methods        2
+Direct (Paid services for SEO)        2
+
+
+
+
+SEO Optimization
+Internal (code)
+Beginner
+1. Meta and title tags 
+   1. There are 6 
+   2. Good description is 140 characters or less
+2. Thumbnails 
+   1. Unfurl image for thumbnail
+   2. Thumbnail for specific platforms
+3. Image optimization (img part google search)
+   1. Alt tags 
+   2. Img caption 
+4. Section tags for nav bar items (site sections)
+   1. Section sitelink optimization (the sections that appear under a google url)
+5. Hyperlink and button tags (outbound stuff)
+6. Img size and url shorteners 
+   1. Their websites to prefer quality and reduce size
+   2. Lazy loading concept 
+7. Blog section 
+8. W3 validation 
+9. Site URL links (our version of bitly)
+   1. chronogrp.com/url/….
+
+
+Advanced
+1. Specific keyword insert in tags 
+2. Nodejs backed preload site easier for browser grasp
+3. Page loading speed 
+   1. https://tools.pingdom.com/
+   2. by google this is dead the best resource in my opinion
+4. CDNs for local cache
+5. Cookies 
+6. Facebook pixel
+
+
+External (Interaction and Platforms)
+Non-Google products / Methods
+1. Sign up for platforms 
+2. Have as many unique users 
+3. Have as many returning users 
+4. Use different devices and different locations and times
+5. Buy multiple domains that link to same page 
+
+
+Google products / Methods
+1. Google search engine console link here for chrono grp account
+2. Google page speed insights
+3. Google for business geo targeting on map 
+4. Google TLD servers .app .dev .google
+5. Google site links
+
+
+
+
+
+
+Direct (Paid services for SEO) 
+1. Google ads 
+2. SEO analytics
+   1. se rush paid seven day free trial
+   2. ahrefs 
+   3. se ranking
